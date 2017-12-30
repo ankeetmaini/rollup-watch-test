@@ -1,0 +1,26 @@
+{
+  "name": "rollup-watch-test",
+  "version": "1.0.0",
+  "description": "A test for rollup watch",
+  "main": "index.js",
+  "dependencies": {
+    "rollup": "^0.53.1"
+  },
+  "devDependencies": {
+    "rollup": "^0.53.1"
+  },
+  "scripts": {
+    "watch": "rollup -c -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankeetmaini/rollup-watch-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankeetmaini/rollup-watch-test/issues"
+  },
+  "homepage": "https://github.com/ankeetmaini/rollup-watch-test#readme"
+}
